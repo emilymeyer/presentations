@@ -1,0 +1,26 @@
+td.header { 
+	background-color: #003366;
+	color: white;
+	text-align: center;
+	font-family: "Arial Rounded MT Bold";
+}
+td.subHeader{ 
+	background-color: #0066CC;
+	color: white;
+	text-align: center;
+	font-family: "Arial Rounded MT Bold";
+}
+td{ 
+	font-family: "Arial Rounded MT Bold";
+	font-size: 10pt;		
+}
+body{ 
+	font-family: "Arial Rounded MT Bold";
+	font-size: 12pt;		
+}
+.submit{ 
+	font-family: "Arial Rounded MT Bold";
+	font-size: 12pt;		
+	background-color: #0066CC;
+	border: 1px solid #003366;
+}

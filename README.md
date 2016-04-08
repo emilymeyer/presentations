@@ -1,4 +1,4 @@
-# presentations
+# Presentations
 Five or six years ago I did a pair of talks for cf.Objective() and a few other conferences on refactoring. The slides are admitedly ugly, but they contain good information and a rough outline of what I covered at each point in my talk. Both presentations were done for an audience that used ColdFusion.  
 
 ## Getting to Know Antipatterns
